@@ -1,3 +1,0 @@
-This is the first Lab of TTST 2021/22.
-
-A new line in this file.
